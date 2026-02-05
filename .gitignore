@@ -23,3 +23,5 @@ mlflow.db
 uv.lock
 
 .claude/settings.local.json
+
+session_slides/*
